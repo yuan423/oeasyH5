@@ -8,8 +8,8 @@
             height: 100%;
             font-size: 180px;
             position: absolute;
+            text-align: center;
             padding-top: 30%;
-            padding-left: 30%;
         }
         #c{
             background-color: lightgreen;
